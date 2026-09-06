@@ -1,0 +1,23 @@
+{
+  "repo": "silhouette-professional-release",
+  "product": "Silhouette Professional Release",
+  "kind": "design",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "design",
+  "topics": [
+    "silhouette-studio",
+    "roto-paint",
+    "planar-tracking",
+    "vfx-cleanup",
+    "compositing-roto",
+    "silhouette-setup-failed-fix",
+    "how-to-install-silhouette",
+    "silhouette-windows",
+    "silhouette-desktop-2026",
+    "silhouette-desktop-package"
+  ],
+  "site": "toolix.me"
+}
